@@ -13,3 +13,11 @@ ubuntuのバグがでた際に，再インストールが最も簡単な改善�
 - zsh  
     - [oh-my-zsh](https://qiita.com/NaokiIshimura/items/249bb1a101b626a59387)  
 
+- samba  
+    以下が参考にしたサイト． しかし，簡易的な設定のみ組み込んだ．後々設定を書き換えていこう．  
+    - [ubuntuでファイルサーバー構築](https://www.pc-koubou.jp/magazine/10062)  
+    - [sambaでの詳しめの設定](https://seesaawiki.jp/w/bokkuri_orz/d/CentOS%20-%20samba)  
+    以下にIPアドレスの固定方法の参考文献である．  
+    - [IPアドレスの固定方法](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0708)  
+    以下にMACでの接続方法を乗せる． 共有フォルダ自体にシンボリックリンクを貼ることはできないのかもしれない．  
+    - [MACでファイルサーバーに接続する方法](https://pc-karuma.net/mac-mount-windows-share-folder/)  
